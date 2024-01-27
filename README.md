@@ -15,8 +15,8 @@
 
 #### 安装环境
 
-1.*Visual Studio*
-2.*EasyX*
+1.  *Visual Studio*
+2.  *EasyX*
 
 #### 使用说明
 
